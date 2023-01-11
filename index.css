@@ -1,0 +1,43 @@
+body {
+    background-image: url("station.jpg");
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: palevioletred ;
+    font-size:35px; 
+}
+
+h2 {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: hotpink;
+}
+
+button {
+    border: 1px solid blanchedalmond;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blanchedalmond;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: lightcoral;
+}
+
+#save-btn {
+    background:plum;
+}
+p{
+    color: palevioletred;
+}
